@@ -22,7 +22,5 @@ public class ArmstrongNumbers
    } 
    sum = 0; 
   } 
- 
  } 
- 
 } 
